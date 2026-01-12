@@ -1,0 +1,21 @@
+# Configuración local
+config/config.php
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias
+vendor/
+node_modules/
+
+# Archivos de entorno
+.env
+.env.local
